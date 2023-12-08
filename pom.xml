@@ -25,7 +25,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>main.java.com.test.HelloWorld</mainClass>
+                        <mainClass>com.test.HelloWorldMaven.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
